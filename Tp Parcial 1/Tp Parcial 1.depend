@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1698884478 source:c:\users\maitu\desktop\tp parcial 1\tp parcial 1\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	"FuncionesGlobales.h"
+	"Fecha.h"
+	"Jugadores.h"
+	"Deportes.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Equipos.h"
+	"TiposDeDeporte.h"
+	"Menues.h"
+
+1698880720 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\funcionesglobales.h
+
+1698880720 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\fecha.h
+
+1698889660 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\jugadores.h
+
+1698890142 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\deportes.h
+
+1698880720 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\configuracion.h
+
+1698884529 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\reportes.h
+
+1698889660 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\equipos.h
+
+1698884529 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\menues.h
+
+1698889660 c:\users\maitu\desktop\tp parcial 1\tp parcial 1\tiposdedeporte.h
+
+1698930466 source:c:\users\lab\desktop\tp parcial 1\tp parcial 1\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+	"Fecha.h"
+	"Jugadores.h"
+	"Deportes.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Equipos.h"
+	"TiposDeDeporte.h"
+	"Menues.h"
+
+1698933490 c:\users\lab\desktop\tp parcial 1\tp parcial 1\funcionesglobales.h
+
+1698880720 c:\users\lab\desktop\tp parcial 1\tp parcial 1\fecha.h
+
+1698935184 c:\users\lab\desktop\tp parcial 1\tp parcial 1\jugadores.h
+
+1698935184 c:\users\lab\desktop\tp parcial 1\tp parcial 1\deportes.h
+
+1698935679 c:\users\lab\desktop\tp parcial 1\tp parcial 1\configuracion.h
+
+1698884529 c:\users\lab\desktop\tp parcial 1\tp parcial 1\reportes.h
+
+1698889660 c:\users\lab\desktop\tp parcial 1\tp parcial 1\equipos.h
+
+1698889660 c:\users\lab\desktop\tp parcial 1\tp parcial 1\tiposdedeporte.h
+
+1698935184 c:\users\lab\desktop\tp parcial 1\tp parcial 1\menues.h
+
+1698928893 c:\users\lab\desktop\tp parcial 1\tp parcial 1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
